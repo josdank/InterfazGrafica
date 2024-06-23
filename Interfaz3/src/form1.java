@@ -26,7 +26,7 @@ public class form1 {
                     JOptionPane.showMessageDialog(null, "Bienvenido");
                 }
                 else {
-                    JOptionPane.showMessageDialog(null, "NO VALIDO");
+                    JOptionPane.showMessageDialog(null, " INGRESE CORRECTAMENTE SUS CREDENCIALES ");
                 }
             }
         });
